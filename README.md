@@ -1,3 +1,5 @@
+MVCRNet: A Semi-Supervised Multi-View Framework for Robust Animal Pose Estimation with Minimal Labeled Data
+
 Our code will be made public soon!!!
 
 AP10K dataset:
